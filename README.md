@@ -7,4 +7,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: 2004gursimar@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am planning to double major 
+- ⚡ Fun fact: I am planning to double major in computer science and mathematics
