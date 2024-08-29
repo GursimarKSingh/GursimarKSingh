@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vscode
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on Vscode or any IDE
-- 🤔 I’m looking for help with java
-- 💬 Ask me about Anything
-- 📫 How to reach me: 2004gursimar@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am planning to double major in computer science and mathematics
+- My name is Gursimar Singh and I am a student attending at Rutgers University. I am majoring in computer science and mathematics with a focus on AI and Software engineering. Feel free to reach out to me on Linkedin: www.linkedin.com/in/gursimar-kaur-singh
+
+
